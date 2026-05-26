@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+
+# Entornos virtuales
+venv/
+env/
+.venv/
+.env/
+
+# Sentencias descargadas (carpeta generada por guardar_documentos_en_disco)
+sentencias judiciales/
+
+# ChromeDriver ejecutables (cada usuario usa el suyo)
+chromedriver
+chromedriver.exe
+chromedriver-*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
