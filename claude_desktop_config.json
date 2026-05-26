@@ -1,0 +1,11 @@
+{
+  "_comentario": "Agregá este bloque dentro de 'mcpServers' en tu claude_desktop_config.json",
+  "mcpServers": {
+    "scba-sentencias": {
+      "command": "python",
+      "args": ["C:/ruta/a/tu/proyecto/scba_mcp_server.py"],
+      "_nota_windows": "Cambiá la ruta por la ruta real donde guardaste scba_mcp_server.py",
+      "_nota_mac_linux": "En Mac/Linux usá /home/usuario/proyecto/scba_mcp_server.py"
+    }
+  }
+}
