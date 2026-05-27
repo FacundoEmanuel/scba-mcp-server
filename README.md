@@ -128,7 +128,6 @@ sentencias judiciales/
 ## Limitaciones
 
 - Depende del sitio web de la SCBA: si cambian el HTML o la estructura del buscador, el scraper puede necesitar ajustes.
-- Solo cubre el buscador de **primera instancia** (`sentencias.scba.gov.ar`). No incluye la Suprema Corte ni las Cámaras de Apelación (tienen otro portal).
 - Requiere Chrome instalado localmente; no funciona en entornos sin interfaz gráfica sin el modo headless activado (ya está activado por defecto).
 
 ---
